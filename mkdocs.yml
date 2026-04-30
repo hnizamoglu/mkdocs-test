@@ -2,5 +2,6 @@ site_name: My Docs
 nav:
   - Home: index.md
   - About: about.md
+  - Project: projects.md
 theme:
   name: material
